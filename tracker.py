@@ -78,7 +78,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print 50* "\033[0;39m─"
-print  """\033[0;96m [¤] \x1b[0;93mASSALAMUALAIKUM\x1b[0;96m  \033[0;96m[¤] \x1b[0;93mWHATSAPP :085220455740\x1b[0;96m"""
+print  """\033[0;96m [¤] \x1b[0;93mASSALAMUALAIKUM\x1b[0;96m  \033[0;96m[¤] \x1b[0;93mWHATSAPP :085220455XXX\x1b[0;96m"""
 print 50* "\033[0;39m─"
 
 CorrectUsername = "Ramdhan"
