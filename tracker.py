@@ -48,18 +48,23 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ 
-█▀█ ▄▀█ █░█ █▀█ █░█ █░░
-█▀▀ █▀█ █▀█ █▀▄ █▄█ █▄▄
+
+██████╗░██╗░░░░░░█████╗░██████╗░███████╗
+██╔══██╗██║░░░░░██╔══██╗██╔══██╗██╔════╝
+██████╦╝██║░░░░░███████║██║░░██║█████╗░░
+██╔══██╗██║░░░░░██╔══██║██║░░██║██╔══╝░░
+██████╦╝███████╗██║░░██║██████╔╝███████╗
+╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝
 
 \033[0;93m╔════════════════════════════════════════════╗
-\033[0;93m║\033[0;96m* \033[0;93mAuthor  \033[0;93m : \033[0;93mPahrull Ganss.\033[0;93m                           ║
-\033[0;93m║\033[0;96m* \033[0;93mWhatsApp \033[0;93m: \033[0;93m081289825673 \033[0;93m                ║
+\033[0;93m║\033[0;96m* \033[0;93mAuthor  \033[0;93m : \033[0;93mRamdhan Ramadhian.\033[0;93m                           ║
+\033[0;93m║\033[0;96m* \033[0;93mWhatsApp \033[0;93m: \033[0;93m085220455XXX \033[0;93m                ║
 \033[0;93m╚════════════════════════════════════════════╝"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[0;96m[●] \x1b[0;93mSedang masuk by Pahrul \x1b[0;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[0;96m[●] \x1b[0;93mSedang masuk by Ramdhan7 \x1b[0;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -76,8 +81,8 @@ print 50* "\033[0;39m─"
 print  """\033[0;96m [¤] \x1b[0;93mASSALAMUALAIKUM\x1b[0;96m  \033[0;96m[¤] \x1b[0;93mWHATSAPP :081289825673\x1b[0;96m"""
 print 50* "\033[0;39m─"
 
-CorrectUsername = "pahrul"
-CorrectPassword = "pahrul"
+CorrectUsername = "Ramdhan"
+CorrectPassword = "blade"
 
 loop = 'true'
 while (loop == 'true'):
@@ -164,7 +169,7 @@ def menu():
 	print "\033[0;96m[\033[0;97m✓\033[0;96m]\033[0;93m Nama \033[0;91m: \033[0;92m"+nama+"\033[0;97m               "
 	print "\033[0;96m[\033[0;97m✓\033[0;96m]\033[0;93m ID   \033[0;91m: \033[0;92m"+id+"\x1b[0;97m              "
 	print 42*"\033[0;96m="
-	print "\x1b[0;96m[\x1b[0;92m1\x1b[0;96m]\x1b[0;93m Hack Fb Cepat"
+	print "\x1b[0;96m[\x1b[0;92m1\x1b[0;96m]\x1b[0;93m Hack FB Cepat"
 	print "\x1b[0;96m[\x1b[0;92m2\x1b[0;96m]\x1b[0;93m Lihat daftar grub               "
 	print "\x1b[0;96m[\x1b[0;92m4\x1b[0;96m]\x1b[0;93m Hack penipu              "
 	print "\x1b[0;96m[\x1b[0;91m0\x1b[0;96m]\x1b[0;91m Keluar            "
