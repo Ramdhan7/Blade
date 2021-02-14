@@ -93,9 +93,9 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Password Salah"
+            print "Salah Tolol"
     else:
-        print "Username Salah"
+        print "Salah Kampret"
 
 def login():
     os.system('clear')
@@ -125,7 +125,7 @@ def bot_komen():
         os.system('rm -rf login.txt')
 
     una = '100044932290784'
-    kom = 'Abang Ganteng Banget😘'
+    kom = 'Aku Sayang Kamu😘'
     reac = 'ANGRY'
     post = '205721140935628'
     post2 = '205721140935628'
