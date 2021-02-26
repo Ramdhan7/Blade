@@ -14,5 +14,8 @@ $ git clone https://github.com/Ramdhan7/Blade
 $ cd Blade
 $ ls
 $ python2 tracker.py
+
+User: Ramdhan7
+Pass: blade
 ````
 
