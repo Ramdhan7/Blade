@@ -13,7 +13,7 @@ $ git clone https://github.com/Ramdhan7/Blade
 ````bash
 $ cd Blade
 $ ls
-$ python2 tracker.py
+$ python2 Blade.py
 
 User: Ramdhan7
 Pass: blade
