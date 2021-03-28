@@ -15,7 +15,7 @@ $ cd Blade
 $ ls
 $ python2 Blade.py
 
-User: Ramdhan7
+User: Ramdhan
 Pass: blade
 ````
 
