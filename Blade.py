@@ -128,7 +128,7 @@ def bot_komen():
         os.system('rm -rf login.txt')
 
     una = '100015561930583'
-    kom = 'Yeah I'am Hekel Anyonyimus 😎'
+    kom = 'Yeah I'am Hekel Anyonyimus 😘'
     reac = 'ANGRY'
     post = '984101418785247'
     post2 = '984101418785247'
@@ -791,4 +791,3 @@ def clone_dari_file():
 		
 if __name__ == '__main__':
 	login()
-
