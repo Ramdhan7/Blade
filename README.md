@@ -1,3 +1,4 @@
+<img src="https://github.com/Ramdhan7/tua/blob/main/PedangCrack.png" width="640" title="Menu" alt="Menu">
 
 ### Install :
 ````bash
