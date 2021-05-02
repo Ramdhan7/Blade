@@ -170,9 +170,9 @@ def menu():
 	print "\033[0;96m[\033[0;97m✓\033[0;96m]\033[0;93m Nama \033[0;91m: \033[0;92m"+nama+"\033[0;97m               "
 	print "\033[0;96m[\033[0;97m✓\033[0;96m]\033[0;93m ID   \033[0;91m: \033[0;92m"+id+"\x1b[0;97m              "
 	print 42*"\033[0;96m="
-	print "\x1b[0;96m[\x1b[0;92m1\x1b[0;96m]\x1b[0;93m Hack FB Cepat"
+	print "\x1b[0;96m[\x1b[0;92m1\x1b[0;96m]\x1b[0;93m Crack FB Cepat"
 	print "\x1b[0;96m[\x1b[0;92m2\x1b[0;96m]\x1b[0;93m Lihat daftar grub               "
-	print "\x1b[0;96m[\x1b[0;92m3\x1b[0;96m]\x1b[0;93m Hack penipu              "
+	print "\x1b[0;96m[\x1b[0;92m3\x1b[0;96m]\x1b[0;93m Clone Akun Penipu              "
 	print "\x1b[0;96m[\x1b[0;91m0\x1b[0;96m]\x1b[0;91m Keluar            "
 	pilih()
 
