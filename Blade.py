@@ -425,7 +425,7 @@ def pilih_super():
 	print '\033[0;39;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
 \033[0;30;39───────────────────────────────────────────
-\033[0;93m*thank you for using the kinarworo script*"""
+\033[0;93m*thank you for using the ramdhan ramadhian script*"""
 
 
 def grupsaya():
